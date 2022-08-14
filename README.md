@@ -22,7 +22,7 @@
   add or subtract transactions to store records of finances 
 
   ## heroku deployment link 
-  https://budgettrackerpwa22.herokuapp.com/
+  https://budgetpwatracker.herokuapp.com/
 
   ## Contributing
   n/a
